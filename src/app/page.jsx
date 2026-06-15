@@ -429,7 +429,7 @@ export default function Home() {
     </div>
 
     <div className="hero-visuals">
-      <img src="/site-assets/images/hero.webp" alt="Auto1Source Dashboard" width="634" height="512" fetchpriority="high" loading="eager" decoding="async" />
+      <img src="/site-assets/images/hero.webp" alt="Auto1Source Dashboard" width="634" height="512" fetchPriority="high" loading="eager" decoding="async" />
     </div>
   </div>
 </section>
