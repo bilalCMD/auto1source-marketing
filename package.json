@@ -1,0 +1,17 @@
+{
+  "name": "auto1source-marketing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Auto1Source marketing website — Next.js (App Router). Server-rendered, SEO-first. The logged-in application is a separate project served from app.auto1source.com.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
